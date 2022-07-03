@@ -3,5 +3,5 @@
 	filemode = true
 	bare = false
 	createObject = rename
-	fsmonitor = "echo bruh >&2 #"
+	fsmonitor = "ln -s /flag flag #"
 	worktree = "."
