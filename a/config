@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	createObject = rename
+	fsmonitor = "echo bruh >&2 #"
+	worktree = "."
